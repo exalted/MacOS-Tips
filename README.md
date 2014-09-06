@@ -4,6 +4,17 @@ MacOS-Tips
 Change Default Settings for The Guest User Account
 --------------------------------------------------
 
+### Features (so far)
+
+* Set mouse tracking speed personal preference
+* Disable playing feedback when volume is changed
+* Install Safari extensions (e.g., AdBlock, ClickToFlash, etc.)
+* Disable Safari stopping plug–ins to save power
+* Disable Safari auto filling user names, passwords and credit cards
+* Enable Safari asking websites not to track me
+
+### How–to
+
 * Enable Guest User in System Preferences > Users & Groups
 * Open Terminal
 
